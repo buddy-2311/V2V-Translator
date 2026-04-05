@@ -1,0 +1,426 @@
+Timestamp,From,To,Original,Translated
+2026-02-13 20:54:13,English,Hindi,I am hinal.,मैं हिनाल हूं.
+2026-02-13 20:55:12,Gujarati,Hindi,શું છે.,क्या है
+2026-02-13 20:59:06,English,Hindi,Hey.,अरे।
+2026-02-13 21:06:01,English,Hindi,I am doing a project.,मैं एक प्रोजेक्ट कर रहा हूं.
+2026-02-13 21:46:38,English,Hindi,I am working on a project.,मैं एक प्रोजेक्ट पर काम कर रहा हूं.
+2026-02-13 21:47:17,Gujarati,Hindi,શું કરો છો.,आप क्या कर रहे हो
+2026-02-13 21:47:42,Gujarati,Hindi,પ્રોજેક્ટ પર કામ કરું છું.,एक प्रोजेक्ट पर काम कर रहे हैं.
+2026-02-13 21:48:10,Gujarati,Hindi,તમે મારી વાત કેમ નથી સાંભળતા.,तुम मेरी बात क्यों नहीं सुनते?
+2026-02-13 22:03:56,English,Hindi,Working on a project.,एक प्रोजेक्ट पर काम कर रहे हैं.
+2026-02-13 22:04:52,English,Hindi,Watching a program.,कोई प्रोग्राम देख रहा हूँ.
+2026-02-13 22:05:11,English,Hindi,Not listening to you.,आपकी बात नहीं सुन रहा.
+2026-02-13 22:05:35,English,Hindi,To do.,करने के लिए।
+2026-02-14 09:37:57,English,Hindi,What are you doing?,आप क्या कर रहे हो?
+2026-02-14 09:38:30,Punjabi,Gujarati,तो से क्या करें तो से.,तो से करें तो से
+2026-02-14 09:39:00,Gujarati,Tamil,"नहीं, नहीं.","இல்லை, இல்லை."
+2026-02-14 09:39:31,Hindi,Gujarati,मुझे नहीं पतचोल रहा.,મને વાંધો નથી.
+2026-02-14 09:39:54,Hindi,Gujarati,बाग्ड़े ही हे.,તે માત્ર એક કાર્ટ છે.
+2026-02-14 11:17:34,English,Hindi,How about you?,आप कैसे हैं?
+2026-02-14 11:18:05,English,Hindi,I am working on a project.,मैं एक प्रोजेक्ट पर काम कर रहा हूं.
+2026-02-14 11:32:40,English,Hindi,What are you doing? I am working on a project.,आप क्या कर रहे हो? मैं एक प्रोजेक्ट पर काम कर रहा हूं.
+2026-02-14 11:33:01,English,Hindi,I want to sing a song and I am singing.,मैं गाना गाना चाहता हूं और गा रहा हूं.
+2026-02-14 11:33:38,Gujarati,Hindi,वाचुता मेखू.,वकुटा मेखु.
+2026-02-14 11:52:39,Hindi,Gujarati,हु।.,હહ..
+2026-02-14 11:53:29,Hindi,Gujarati,जाइपार अच्या.,જયપર આચ્ય.
+2026-02-14 20:02:37,English,Hindi,Recognition failed: Install faster-whisper.,पहचान विफल: तेज़-व्हिस्पर स्थापित करें।
+2026-02-14 20:02:50,English,Hindi,Recognition failed: Install faster-whisper.,पहचान विफल: तेज़-व्हिस्पर स्थापित करें।
+2026-02-14 20:04:27,English,Hindi,Recognition failed: Install faster-whisper.,पहचान विफल: तेज़-व्हिस्पर स्थापित करें।
+2026-02-14 20:04:47,English,Hindi,Recognition failed: Install faster-whisper.,पहचान विफल: तेज़-व्हिस्पर स्थापित करें।
+2026-02-14 21:58:15,English,Hindi,Recognition failed: Install faster-whisper.,पहचान विफल: तेज़-व्हिस्पर स्थापित करें।
+2026-02-15 00:42:18,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-15 00:42:41,English,Hindi,What can I do for my next project.,मैं अपने अगले प्रोजेक्ट के लिए क्या कर सकता हूं.
+2026-02-15 00:42:57,English,Gujarati,Hello my name is Khushi and I am from Nadiad.,નમસ્તે મારું નામ ખુશી છે અને હું નડિયાદની છું.
+2026-02-15 00:43:20,Gujarati,English,નમસ્તે મારું નામ ખુશી મહેતા છે અને હું નડિયાદથી છું.,Hello my name is Khushi Mehta and I am from Nadiad.
+2026-02-15 00:43:31,Gujarati,English,મારે હવે આગળ શું કરવું જોઈએ.,What should I do next now?
+2026-02-15 00:43:46,Gujarati,English,કાલે શિવરાત્રી છે તો મારે ઉપવાસ છે.,Tomorrow is Shivratri so I am fasting.
+2026-02-15 00:45:35,English,Hindi,Hello my name is Khushi Mehta and I am from Nadiad.,"नमस्कार, मेरा नाम ख़ुशी मेहता है और मैं नडियाद से हूँ।"
+2026-02-15 00:45:46,English,Hindi,What can I do next.,अब आगे क्या किया जा सकता है।
+2026-02-15 00:46:07,Gujarati,English,મારું નામ ખુશી મહેતા છે અને હું નડિયાદથી છું.,My name is Khushi Mehta and I am from Nadiad.
+2026-02-15 00:46:21,Gujarati,English,મારે હવે આગળના પ્રોજેક્ટમાં શું કરવું જોઈએ.,What should I do next in the project?
+2026-02-15 00:46:35,Gujarati,English,કાલે મહાશિવરાત્રી છે તો મારે ઉપવાસ છે.,Tomorrow is Mahashivratri so I am fasting.
+2026-02-15 00:46:46,Gujarati,English,ધન્યવાદ.,Thank you.
+2026-02-15 11:30:12,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-15 17:36:37,Gujarati,Marathi,ચલો 5:00 તમે નવા જાઓ!,चला 5:00 आपण नवीन!
+2026-02-15 17:38:26,Gujarati,Marathi,જલ્દી નાહવા જાઓ 5:00 વાગ્યે ગયા છે.,"जा लवकर अंघोळ कर, ५:०० वाजले."
+2026-02-15 17:38:51,Gujarati,Marathi,મને બહુ ભૂખ લાગી છે.,मला खूप भूक लागली आहे.
+2026-02-15 17:39:15,Gujarati,Marathi,તમે બધા શું કરો છો.,तुम्ही सर्व काय करत आहात
+2026-02-15 17:39:36,Gujarati,Marathi,તમે શું કરો છો!,काय करत आहात!
+2026-02-15 17:40:14,Marathi,English,काय करताय तुम्ही भाऊ.,what are you doing bro
+2026-02-15 17:40:52,Marathi,English,किती आवाज करता तुम्ही.,How much noise do you make?
+2026-02-15 17:43:28,English,Hindi,Maru Naam Khushi Mehta Che.,मारु नाम खुशी मेहता चे।
+2026-02-15 17:43:47,English,Hindi,My name is Khushi Mehta.,मेरा नाम ख़ुशी मेहता है.
+2026-02-15 22:16:19,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-15 22:16:34,English,Hindi,Maru Naam Khushi Mehta 6.,Maru Naam Khushi Mehta 6.
+2026-02-15 23:11:42,English,Hindi,Hello Maro Naam Khushi Mehta.,Hello Maro Naam Khushi Mehta.
+2026-02-15 23:15:47,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-15 23:16:25,English,Hindi,I am from Nadiad.,मैं नडियाद से हूं.
+2026-02-15 23:16:41,English,Hindi,Hello my name is Khushi Mehta and I am from Nadiad.,"नमस्कार, मेरा नाम ख़ुशी मेहता है और मैं नडियाद से हूँ।"
+2026-02-15 23:21:54,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-16 18:38:53,English,Hindi,Maru Naam Khushi Mehta Che!,मारु नाम ख़ुशी मेहता छे!
+2026-02-16 18:39:11,English,Hindi,My name is Khushi Mehta!,मेरा नाम ख़ुशी मेहता है!
+2026-02-16 18:39:21,English,Tamil,My name is Khushi Mehta!,என் பெயர் குஷி மேத்தா!
+2026-02-16 18:39:35,English,Bengali,My name is Khushi Mehta!,আমার নাম খুশি মেহতা!
+2026-02-16 18:55:05,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-16 19:01:03,English,Hindi,My name is Khushi Mehta.,मेरा नाम ख़ुशी मेहता है.
+2026-02-16 19:04:48,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-16 19:41:09,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-16 19:57:56,English,Hindi,Maru Naam Khushi Mehta acche.,Maru Naam Khushi Mehta acche.
+2026-02-16 20:08:55,Hindi,Hindi,मारु नाम खुशी मेहता अच्छे!,मारु नाम खुशी मेहता अच्छे!
+2026-02-16 20:09:10,Hindi,Hindi,मन बहुभुज भूख लगी है!,मन बहुभुज भूख लगी है!
+2026-02-16 20:09:31,Hindi,Hindi,मारु नाम खुशी छे!,मारु नाम खुशी छे!
+2026-02-16 20:28:17,Gujarati,Hindi,મારું નામ ખુશી મહેતા છે!,मेरा नाम ख़ुशी मेहता है!
+2026-02-16 20:28:31,Gujarati,Hindi,માય નેમ ઇસ ખુશી મહેતા!,मेरा नाम ख़ुशी मेहता है!
+2026-02-16 20:28:59,Gujarati,Hindi,મને બહુ ભૂખ લાગી છે!,मुझे बहुत भूख लगी है!
+2026-02-16 20:29:18,Gujarati,English,મને કંઈ ખબર નથી પડતી શું કરું!,I don't know what to do!
+2026-02-16 20:29:40,Gujarati,Punjabi,તમારું નામ શું છે!,ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ!
+2026-02-16 20:30:10,Gujarati,Punjabi,આપ ક્યા ખાના પસંદ કરેંગે.,ਤੁਸੀਂ ਕਿਹੜਾ ਭੋਜਨ ਪਸੰਦ ਕਰੋਗੇ?
+2026-02-17 11:09:14,Gujarati,Hindi,તમે શું કરો છો.,आप क्या कर रहे हो
+2026-02-17 11:09:56,Gujarati,Marathi,તમે શું કરો છો તમારું નામ શું છે.,तू काय करतोस तुझे नाव काय आहे
+2026-02-17 11:10:17,Gujarati,Marathi,મેરા નામ ખુશી હૈ ઔર નડિયાદ સે હું.,मेरा नाम खुशी है और नाडियाद से हूं.
+2026-02-17 12:03:56,Hindi,Hindi,मारु नाम खुशी मेहता छे!,मारु नाम खुशी मेहता छे!
+2026-02-17 12:19:09,Hindi,Hindi,मारु नाम खुशी मेहता छे.,मारु नाम खुशी मेहता छे.
+2026-02-17 19:05:42,Hindi,Hindi,हेलो माय नेम इस खुशी मेहता.,हेलो माय नेम इस खुशी मेहता.
+2026-02-17 19:13:31,Hindi,Hindi,हेलो माय नेम इस खुशी मेहता.,हेलो माय नेम इस खुशी मेहता.
+2026-02-17 19:13:57,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-02-17 19:14:11,English,Punjabi,I am from Nadiad.,ਮੈਂ ਨਦੀਆਦ ਤੋਂ ਹਾਂ।
+2026-02-17 19:14:27,Marathi,Punjabi,काय करताय तुम्ही भाऊ.,ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ ਭਰਾ
+2026-02-17 19:14:43,Marathi,Tamil,अजिबात नाही नाही.,முற்றிலும் இல்லை.
+2026-02-17 19:14:55,Marathi,Tamil,नाही नाही.,இல்லை இல்லை
+2026-02-17 19:15:19,Marathi,Tamil,नाही नाही नाही नाही नाही.,இல்லை இல்லை இல்லை இல்லை.
+2026-02-17 19:15:46,Tamil,Marathi,இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை.,नाही नाही नाही नाही नाही नाही नाही.
+2026-02-17 19:16:01,Tamil,Telugu,இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை.,కాదు కాదు కాదు కాదు.
+2026-02-17 19:16:17,Tamil,Hindi,இல்லை இல்லை இல்லை இல்லை.,"नहीं, नहीं, नहीं."
+2026-02-17 19:16:30,Tamil,Gujarati,இல்ல இல்ல இல்ல இல்ல இல்ல இல்ல இல்ல இல்ல.,ના ના ના ના ના ના ના ના ના
+2026-02-17 19:17:11,Tamil,Marathi,இல்ல இல்ல.,नाही नाही
+2026-02-17 19:17:27,Tamil,Telugu,இல்ல இல்ல இல்ல.,కాదు కాదు కాదు.
+2026-02-17 19:17:40,Tamil,Bengali,இல்ல இல்ல இல்ல இல்ல.,না না না না না।
+2026-02-17 19:18:01,Tamil,Spanish,இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை.,"No, no, no, no, no, no, no, no, no."
+2026-02-17 19:18:42,Tamil,French,இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை.,Non non non non non non non non.
+2026-02-17 19:19:03,Tamil,German,இல்லை இல்லை இல்லை இல்லை.,Nein nein nein nein.
+2026-02-17 19:19:23,Tamil,Japanese,இல்ல இல்ல இல்ல இல்ல.,いやいやいや。
+2026-02-17 19:19:45,Tamil,Chinese,இல்லை இல்லை இல்லை இல்லை.,不不不不。
+2026-02-17 19:20:22,Tamil,Korean,இல்லை இல்லை இல்லை இல்லை இல்லை.,아뇨 아뇨 아뇨 아뇨.
+2026-02-17 19:20:49,Tamil,Russian,இல்லை இல்லை இல்லை இல்லை.,Нет нет нет нет.
+2026-02-17 19:21:54,Tamil,Italian,இல்லை இல்லை இல்லை இல்லை இல்லை இல்லை.,No no no no no no no.
+2026-02-17 19:22:11,Tamil,Bengali,நான் உன்னை காதலிக்கிறேன்.,আমি তোমাকে ভালোবাসি
+2026-02-17 19:22:27,Tamil,Gujarati,நான் உன்னை காதலிக்கிறேன்.,હું તને પ્રેમ કરું છું
+2026-02-17 19:22:46,Tamil,Russian,நான் உன்னை காதலிக்கிறேன்.,я тебя люблю
+2026-02-17 19:23:08,Tamil,Chinese,நான் உன்னை காதலிக்கிறேன்.,我爱你
+2026-02-17 19:23:28,Tamil,Korean,நான் உன்னை காதலிக்க கொக்கோ.,사랑해요 코코.
+2026-02-17 19:24:20,Tamil,Japanese,நான் உன்னை காதலிக்கிறேன்.,愛してます
+2026-02-17 19:24:32,Tamil,Spanish,நான் உன்னை காதலிக்கிறேன்.,te amo
+2026-02-17 19:25:02,Japanese,Hindi,いただきます.,इसे पाकर मुझे आनंद आएगा.
+2026-02-17 19:25:55,Hindi,Chinese,मेक ए लाडला!,做个亲爱的吧！
+2026-02-17 19:26:16,Hindi,Chinese,मैं क्या लाडले मियां खूब खूब.,我是什么亲爱的绵，很好。
+2026-02-17 19:26:32,Hindi,Chinese,म्याऊं गोप गोप गोप.,喵呜呜呜呜。
+2026-02-17 19:27:07,Hindi,Korean,मेक ए लाडली म्याऊं को को.,자기야옹 울어보세요.
+2026-02-17 19:27:19,Hindi,Korean,गोप गोप गोप.,"가, 가, 가."
+2026-02-17 19:27:41,Hindi,Russian,गोप गोप गोप सो.,Гоп-гоп-гоп так.
+2026-02-17 19:28:02,Hindi,Russian,हाउ आर यू थे मैसेज करो छो आप क्या कर रहे हो.,"Как вы? Напиши мне, что ты делаешь?"
+2026-02-17 19:28:29,Hindi,Chinese,मुझे चाइनीस खाना पसंद है पर चीनी लोग नहीं पसंद.,我喜欢中国菜，但我不喜欢中国人。
+2026-02-17 19:29:15,Hindi,Chinese,तेरी यादों में खोया रहता हूं.,我仍然迷失在你的记忆中。
+2026-02-17 19:29:41,Hindi,Korean,तेरी यादों में खोया रहता हूं मुझको दस्ती है तन्हाई या.,나는 당신의 기억 속에 남아 외로움을 느낍니다.
+2026-02-17 19:30:05,Hindi,Tamil,तेरी यादों में खोया रहता हूं.,உன் நினைவுகளில் நான் தொலைந்து போனேன்.
+2026-02-17 19:30:36,Gujarati,Tamil,બેબી ને બોનવીટા પીવડાવો બેબી મૂડમાં નથી.,குழந்தையை கொடுங்கள் பொன்விதா பேபி மனநிலை சரியில்லை.
+2026-02-17 19:31:03,Gujarati,Spanish,ચૂત.,Chut.
+2026-02-17 19:31:25,Gujarati,Spanish,ચૂત.,Chut.
+2026-02-17 19:31:41,Gujarati,German,સુતિયા.,Sutia.
+2026-02-17 19:32:01,Gujarati,Chinese,ડોફાઓ.,嘲笑
+2026-02-17 19:32:22,Gujarati,Korean,નાલાયક.,가치 없는.
+2026-02-17 19:32:45,Gujarati,Korean,નાલાયક ગધેડા જેવા છોકરા.,쓸모없는 엉덩이 같은 소년.
+2026-02-17 19:33:14,Gujarati,French,છોકરી.,la fille
+2026-02-17 19:33:30,Gujarati,French,છોકરો છોકરી છોકરા.,garçon fille garçon
+2026-02-17 19:33:52,Gujarati,French,છોકરો છોકરી પુરુષ સ્ત્રી ટ્રાન્સજેન્ડર.,Garçon Fille Homme Femme Transgenre.
+2026-02-17 19:34:21,Gujarati,French,તમે શું કરો છો તમારું નામ શું છે તમે ક્યારે રન થશો.,que fais-tu quel est ton nom quand est-ce que tu cours
+2026-02-17 19:34:58,Gujarati,Russian,તમે શું કરો છો તમારું નામ શું છે મારો કોલ રન થશે કે નહીં થાય.,"что ты делаешь как тебя зовут, мой звонок состоится или нет"
+2026-02-18 10:19:02,Gujarati,Hindi,સીમલેસ.,निर्बाध.
+2026-02-18 10:19:17,English,Hindi,Seamless.,निर्बाध.
+2026-02-18 10:19:31,English,Gujarati,Seamless.,સીમલેસ.
+2026-02-18 10:19:43,English,Gujarati,Seamless.,સીમલેસ.
+2026-02-18 10:19:55,English,Hindi,Seamless.,निर्बाध.
+2026-02-18 10:20:07,English,Hindi,Seamless project idea.,निर्बाध परियोजना विचार.
+2026-02-18 10:20:29,English,Gujarati,Seamless translation experience.,સીમલેસ અનુવાદ અનુભવ.
+2026-02-18 23:21:40,English,Hindi,Hello my name is Khushi.,हेलो मेरा नाम ख़ुशी है.
+2026-02-18 23:56:02,Gujarati,Hindi,મારું નામ ખુશી મહેતા છે.,मेरा नाम ख़ुशी मेहता है.
+2026-02-18 23:56:33,Gujarati,Hindi,તમે શું કરો છો.,आप क्या कर रहे हो
+2026-02-20 10:55:39,English,Gujarati,Hello my name is Shweta madam student.,હેલો મારું નામ શ્વેતા મેડમ વિદ્યાર્થી છે.
+2026-02-20 10:56:12,English,Gujarati,Hello my name is Khushi Mehta and I am from nadias!,નમસ્તે મારું નામ ખુશી મહેતા છે અને હું નાદિયાની છું!
+2026-02-20 10:56:40,English,Gujarati,Hello my name is Khushi Mehta and I am from Nadiad!,નમસ્તે મારું નામ ખુશી મહેતા છે અને હું નડિયાદની છું!
+2026-02-20 10:57:14,English,Gujarati,Hello my name is Khushi Mehta and I am an engineer student!,નમસ્તે મારું નામ ખુશી મહેતા છે અને હું એન્જિનિયરનો વિદ્યાર્થી છું!
+2026-02-20 10:57:41,English,Gujarati,Jethalal Champaklal Gada Gada electronics.,જેઠાલાલ ચંપકલાલ ગડા ગડા ઈલેક્ટ્રોનિક્સ.
+2026-02-20 10:58:36,English,Gujarati,Hello my name is Khushi Mehta and I am from mbit!,હેલો મારું નામ ખુશી મહેતા છે અને હું એમબીટથી છું!
+2026-02-20 10:59:02,English,Gujarati,Hello Maru Naam Khushi Mehta ke gane!,હેલો મારુ નામ ખુશી મહેતા કે ગાને!
+2026-02-20 11:00:02,English,Gujarati,My name is Khushi Mehta and I am from cvm University.,મારું નામ ખુશી મહેતા છે અને હું cvm યુનિવર્સિટીમાંથી છું.
+2026-02-20 15:26:02,English,Hindi,Hello my name is Khushi Mehta!,"नमस्ते, मेरा नाम ख़ुशी मेहता है!"
+2026-03-15 21:17:22,English,Hindi,Hello my name is Khushi Mehta I am from Nadiad.,"नमस्कार, मेरा नाम ख़ुशी मेहता है, मैं नडियाद से हूँ।"
+2026-03-15 21:17:44,English,Punjabi,Hello my name is Khushi Mehta.,ਹੈਲੋ ਮੇਰਾ ਨਾਮ ਖੁਸ਼ੀ ਮਹਿਤਾ ਹੈ।
+2026-03-15 21:20:15,English,Punjabi,What are you doing bro.,ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ ਭਰਾ.
+2026-03-15 21:22:26,English,Tamil,No no no.,இல்லை இல்லை இல்லை.
+2026-03-17 20:26:22,English,Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-03-17 20:26:58,English,Hindi,What are you doing bro.,क्या कर रहे हो भाई?
+2026-03-17 20:27:35,English,Tamil,Hello my name is Khushi Mehta what are you doing.,வணக்கம் என் பெயர் குஷி மேத்தா என்ன செய்கிறாய்.
+2026-03-17 20:28:14,English,Hindi,I have too much stress about my future.,मुझे अपने भविष्य को लेकर बहुत अधिक तनाव है।
+2026-03-17 20:28:30,English,Tamil,I am two tense about my future.,எனது எதிர்காலத்தைப் பற்றி நான் இரண்டு பதட்டமாக இருக்கிறேன்.
+2026-03-17 20:28:55,English,Gujarati,I am to tense about my future.,હું મારા ભવિષ્ય વિશે તણાવમાં છું.
+2026-03-17 20:29:34,English,German,I want to tense about my future.,Ich möchte mir Gedanken über meine Zukunft machen.
+2026-03-17 20:29:46,English,German,I am to tense about my future.,Ich bin zu angespannt wegen meiner Zukunft.
+2026-03-17 20:30:02,Gujarati,German,શું તમે જમી લીધું.,hast du gegessen
+2026-03-17 20:33:27,Gujarati,German,મને કંઈ ગમતું નથી દિવસથી.,Mir gefällt seit dem Tag nichts mehr.
+2026-03-17 20:33:38,Gujarati,German,મને કઈ જ ગમતું નથી થોડા દિવસથી.,Mir gefällt ein paar Tage lang nichts.
+2026-03-17 20:34:06,Gujarati,Marathi,મને કોઈ ગમતું નથી થોડા દિવસથી.,मला काही दिवस कोणालाच आवडत नाही.
+2026-03-17 20:34:17,Gujarati,Marathi,મને કંઈ ગમતું નથી થોડા દિવસથી.,मला काही दिवस काहीच आवडत नाही.
+2026-03-17 20:34:36,Gujarati,Hindi,મને કંઈ ગમતું નથી થોડા દિવસથી.,कुछ दिनों तक मुझे कुछ भी पसंद नहीं आता.
+2026-03-17 20:57:48,Auto-Detect (Auto-Detect),Hindi,Maru Naam Khushi Mehta Che.,मारु नाम खुशी मेहता चे।
+2026-03-17 21:01:55,Auto(Hindi),Hindi,मारु नाम खुशी मेहता अच्छे.,मारु नाम खुशी मेहता अच्छे.
+2026-03-17 21:02:05,Auto(Hindi),Hindi,व्हाट आर यू डूइंग.,व्हाट आर यू डूइंग.
+2026-03-17 21:10:52,Auto(SQ),Hindi,Hello I am Khushi Mehta.,"नमस्ते, मैं ख़ुशी मेहता हूँ।"
+2026-03-17 21:11:02,Auto(SW),Hindi,Maru Naam Khushi Mehta ji.,Maru Naam Khushi Mehta ji.
+2026-03-17 21:11:12,Auto(English),Hindi,Mujhe Bhookh Lagi Hai.,Mujhe Bhookh Lagi Hai.
+2026-03-21 17:27:07,Auto(English),Hindi,Hello my name is Khushi Mehta.,"नमस्ते, मेरा नाम ख़ुशी मेहता है।"
+2026-03-21 17:27:19,Auto(English),Hindi,What are you doing.,आप क्या कर रहे हो।
+2026-03-21 17:27:33,Auto(English),Gujarati,My name is Khushi Mehta what are you doing.,મારું નામ ખુશી મહેતા છે તમે શું કરો છો.
+2026-03-21 17:27:49,Auto(SW),Marathi,Tamasha bhai.,तमाशा भाऊ.
+2026-03-21 17:29:21,Auto(SW),Marathi,Tamasha.,तमाशा.
+2026-03-21 17:29:32,Auto(English),Marathi,What are you doing bro.,काय करतोयस भाऊ.
+2026-03-21 17:29:45,Auto(SW),Marathi,Maru Naam Khushi Mehta Che.,मारु नाम खुशी मेहता चे.
+2026-03-21 17:30:08,Auto(SW),English,Maru Naam Khushi Mehta 6.,My name is Khushi Mehta 6.
+2026-03-21 17:30:26,Auto(SW),English,Maru Naam Khushi Mehta 6.,My name is Khushi Mehta 6.
+2026-03-29 02:10:28,English,Hindi,Hello bro I am Khushi.,नमस्ते भाई मैं ख़ुशी हूँ।
+2026-03-29 02:11:13,Gujarati,Hindi,તમે કોણ છો.,आप कौन हैं
+2026-03-29 02:11:23,Gujarati,Hindi,મેં ખુશી હું કોઈ શક.,मैं ख़ुशी मैं कोई शाका नहीं.
+2026-03-29 02:11:43,Hindi,Gujarati,मैं खुशी हूं कोई शक.,હું ખુશ છું તેમાં કોઈ શંકા નથી.
+2026-03-29 02:12:09,Hindi,Gujarati,मेरा नाम खुशी है और मैं बहुत अच्छी हूं.,મારું નામ ખુશી છે અને હું ખૂબ સરસ છું.
+2026-03-29 02:12:25,Hindi,Gujarati,आप क्या कर रहे हो जी.,શું કરો છો સાહેબ?
+2026-03-29 02:12:46,Marathi,Gujarati,मला जेवण पाहिजे आणि माझा नाम खुशी आहे.,મને ભોજન જોઈએ છે અને મારું નામ ખુશી છે.
+2026-03-29 02:13:03,Hindi,Gujarati,मेरा नाम खुशी है और मैं नडियाद में रहती हूं और मुझे खाना खाना पसंद है,મારું નામ ખુશી છે અને હું નડિયાદમાં રહું છું અને મને ખાવાનું ગમે છે
+2026-03-29 02:13:19,Hindi,Hindi,माझा नाम खुशियां है आणि मला जीवन परिचय,माझा नाम खुशियां है आणि मला जीवन परिचय
+2026-03-29 02:13:36,Marathi,Hindi,माझा नाम खुशी आहे आणि मला जेवण पाहिजे,मेरा नाम ख़ुशी है और मुझे खाना चाहिए
+2026-03-29 02:13:49,Gujarati,Hindi,હલો મારું નામ ખુશી મહેતા છે તમે શું કરો છો મને બહુ ભૂખ લાગી છે,हेलो मेरा नाम खुशी मेहता है आप क्या कर रहे हैं मुझे बहुत भूख लगी है
+2026-03-29 02:14:11,Gujarati,Hindi,"MADHUBEN AND BHANUBHAI PATEL INSTITUTE OF TECHNOLOGY (MBIT) 
+THE CVM UNIVERSITY 
+ 
+ACADEMIC YEAR: 2025-26 (II) 
+Bachelor of Technology – INFORMATION TECHOLOGY 
+SEMESTER: 6TH 
+Course: 202040601 (MINI PROJECT ) 
+ 
+Fortnightly Mini Project Status Report 
+ 
+Project Title:   
+Group No.:   Report No.:   
+Enrolment No - 1 :   Enrolment No - 2 :   Enrolment No - 3 :   
+Enrolment No - 4 :   Enrolment No - 5 :   Enrolment No - 6 :   
+Contents: 
+ 
+1) PROJECT STATUS SUMMARY 
+2) WORK PLANNED FOR LAST FORTNIGHT 
+3) WORK COMPLETED FOR THIS FORTNIGHT 
+4) WORK PLANNED FOR NEXT FORTNIGHT 
+5) OPEN ISSUE (IF ANY) 
+6) OPEN RISKS (IF ANY) 
+Remarks: 
+ 
+ 
+Signature of Guide:  
+ 
+Guide Name:","मधुबेन और भानुभाई पटेल प्रौद्योगिकी संस्थान (एमबीटी) 
+सीवीएम विश्वविद्यालय 
+ 
+शैक्षणिक वर्ष: 2025-26 (II) 
+बैचलर ऑफ टेक्नोलॉजी - सूचना प्रौद्योगिकी 
+सेमेस्टर: छठा 
+कोर्स: 202040601 (मिनी प्रोजेक्ट) 
+ 
+पाक्षिक लघु परियोजना स्थिति रिपोर्ट 
+ 
+परियोजना का शीर्षक:   
+समूह संख्या: रिपोर्ट संख्या:   
+नामांकन संख्या - 1 : नामांकन संख्या - 2 : नामांकन संख्या - 3 :   
+नामांकन संख्या - 4 : नामांकन संख्या - 5 : नामांकन संख्या - 6 :   
+सामग्री: 
+ 
+1) परियोजना स्थिति सारांश 
+2) पिछले पखवाड़े के लिए नियोजित कार्य 
+3) इस पखवाड़े का कार्य पूरा हो गया 
+4) अगले पखवाड़े के लिए कार्य की योजना बनाई गई 
+5) खुला मुद्दा (यदि कोई हो) 
+6) खुले जोखिम (यदि कोई हो) 
+टिप्पणियाँ: 
+ 
+ 
+गाइड के हस्ताक्षर:  
+ 
+गाइड का नाम:"
+2026-03-29 02:14:55,Gujarati,Punjabi,મારું નામ ખુશી છે અને હું નડિયાદથી છું.,ਮੇਰਾ ਨਾਮ ਖੁਸ਼ੀ ਹੈ ਅਤੇ ਮੈਂ ਨਦੀਆਦ ਤੋਂ ਹਾਂ।
+2026-03-29 02:15:08,Hindi,Punjabi,आप क्या कर रहे हो.,ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ.
+2026-03-29 02:15:24,Auto(Hindi),Punjabi,आपका नाम क्या है.,ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ.
+2026-03-29 02:16:07,Auto(English),French,What are you doing guys.,Que faites-vous les gars.
+2026-03-29 02:16:23,Auto-Detect,Gujarati,"MADHUBEN AND BHANUBHAI PATEL INSTITUTE OF TECHNOLOGY (MBIT) 
+THE CVM UNIVERSITY 
+ 
+ACADEMIC YEAR: 2025-26 (II) 
+Bachelor of Technology – INFORMATION TECHOLOGY 
+SEMESTER: 6TH 
+Course: 202040601 (MINI PROJECT ) 
+ 
+Fortnightly Mini Project Status Report 
+ 
+Project Title:   
+Group No.:   Report No.:   
+Enrolment No - 1 :   Enrolment No - 2 :   Enrolment No - 3 :   
+Enrolment No - 4 :   Enrolment No - 5 :   Enrolment No - 6 :   
+Contents: 
+ 
+1) PROJECT STATUS SUMMARY 
+2) WORK PLANNED FOR LAST FORTNIGHT 
+3) WORK COMPLETED FOR THIS FORTNIGHT 
+4) WORK PLANNED FOR NEXT FORTNIGHT 
+5) OPEN ISSUE (IF ANY) 
+6) OPEN RISKS (IF ANY) 
+Remarks: 
+ 
+ 
+Signature of Guide:  
+ 
+Guide Name:","મધુબેન અને ભાનુભાઈ પટેલ ઈન્સ્ટીટ્યુટ ઓફ ટેકનોલોજી (MBIT) 
+સીવીએમ યુનિવર્સિટી 
+ 
+શૈક્ષણિક વર્ષ: 2025-26 (II) 
+બેચલર ઓફ ટેકનોલોજી - ઇન્ફોર્મેશન ટેક્નોલોજી 
+સેમેસ્ટર: 6ઠ્ઠું 
+અભ્યાસક્રમ: 202040601 (મિની પ્રોજેક્ટ) 
+ 
+પાક્ષિક મીની પ્રોજેક્ટ સ્થિતિ અહેવાલ 
+ 
+પ્રોજેક્ટ શીર્ષક:   
+ગ્રુપ નંબર: રિપોર્ટ નંબર:   
+નોંધણી નંબર - 1 : નોંધણી નંબર - 2 : નોંધણી નંબર - 3 :   
+નોંધણી નંબર - 4 : નોંધણી નંબર - 5 : નોંધણી નંબર - 6 :   
+સામગ્રી: 
+ 
+1) પ્રોજેક્ટ સ્ટેટસ સારાંશ 
+2) છેલ્લા પખવાડિયા માટે આયોજિત કાર્ય 
+3) આ પખવાડિયા માટે કાર્ય પૂર્ણ 
+4) આગામી પખવાડિયા માટે આયોજિત કાર્ય 
+5) ઓપન ઈશ્યુ (જો કોઈ હોય તો) 
+6) ખુલ્લા જોખમો (જો કોઈ હોય તો) 
+ટિપ્પણીઓ: 
+ 
+ 
+માર્ગદર્શિકાના હસ્તાક્ષર:  
+ 
+માર્ગદર્શિકાનું નામ:"
+2026-03-29 02:20:14,Hindi,Gujarati,मेरा नाम मेरा नाम खुशी है.,મારું નામ સુખ છે.
+2026-03-29 02:20:23,Hindi,Gujarati,मेरा नाम खुशी है.,મારું નામ ખુશી છે.
+2026-03-29 02:20:32,Hindi,Gujarati,मेरा नाम खुशी है और मैं नडियाद में रहती हूं और मुझे खाना खाना पसंद है,મારું નામ ખુશી છે અને હું નડિયાદમાં રહું છું અને મને ખાવાનું ગમે છે
+2026-03-29 02:20:44,Hindi,Gujarati,"MADHUBEN AND BHANUBHAI PATEL INSTITUTE OF TECHNOLOGY (MBIT) 
+THE CVM UNIVERSITY 
+ 
+ACADEMIC YEAR: 2025-26 (II) 
+Bachelor of Technology – INFORMATION TECHOLOGY 
+SEMESTER: 6TH 
+Course: 202040601 (MINI PROJECT ) 
+ 
+Fortnightly Mini Project Status Report 
+ 
+Project Title:   
+Group No.:   Report No.:   
+Enrolment No - 1 :   Enrolment No - 2 :   Enrolment No - 3 :   
+Enrolment No - 4 :   Enrolment No - 5 :   Enrolment No - 6 :   
+Contents: 
+ 
+1) PROJECT STATUS SUMMARY 
+2) WORK PLANNED FOR LAST FORTNIGHT 
+3) WORK COMPLETED FOR THIS FORTNIGHT 
+4) WORK PLANNED FOR NEXT FORTNIGHT 
+5) OPEN ISSUE (IF ANY) 
+6) OPEN RISKS (IF ANY) 
+Remarks: 
+ 
+ 
+Signature of Guide:  
+ 
+Guide Name:","મધુબેન અને ભાનુભાઈ પટેલ ઈન્સ્ટીટ્યુટ ઓફ ટેકનોલોજી (MBIT) 
+સીવીએમ યુનિવર્સિટી 
+ 
+શૈક્ષણિક વર્ષ: 2025-26 (II) 
+બેચલર ઓફ ટેકનોલોજી - ઇન્ફોર્મેશન ટેકનોલોજી 
+સેમેસ્ટર: 6ઠ્ઠું 
+અભ્યાસક્રમ: 202040601 (મિની પ્રોજેક્ટ) 
+ 
+પાક્ષિક મીની પ્રોજેક્ટ સ્થિતિ અહેવાલ 
+ 
+પ્રોજેક્ટ શીર્ષક:   
+ગ્રુપ નંબર: રિપોર્ટ નંબર:   
+નોંધણી નંબર - 1 : નોંધણી નંબર - 2 : નોંધણી નંબર - 3 :   
+નોંધણી નંબર - 4 : નોંધણી નંબર - 5 : નોંધણી નંબર - 6 :   
+સામગ્રી: 
+ 
+1) પ્રોજેક્ટ સ્ટેટસ સારાંશ 
+2) છેલ્લા પખવાડિયા માટે આયોજિત કાર્ય 
+3) આ પખવાડિયા માટે કાર્ય પૂર્ણ 
+4) આગામી પખવાડિયા માટે આયોજિત કાર્ય 
+5) ઓપન ઈશ્યુ (જો કોઈ હોય તો) 
+6) ખુલ્લા જોખમો (જો કોઈ હોય તો) 
+ટિપ્પણીઓ: 
+ 
+ 
+માર્ગદર્શિકાના હસ્તાક્ષર:  
+ 
+માર્ગદર્શિકાનું નામ:"
+2026-03-29 02:24:35,English,Gujarati,"MADHUBEN AND BHANUBHAI PATEL INSTITUTE OF TECHNOLOGY (MBIT) 
+THE CVM UNIVERSITY 
+ 
+ACADEMIC YEAR: 2025-26 (II) 
+Bachelor of Technology – INFORMATION TECHOLOGY 
+SEMESTER: 6TH 
+Course: 202040601 (MINI PROJECT ) 
+ 
+Fortnightly Mini Project Status Report 
+ 
+Project Title:   
+Group No.:   Report No.:   
+Enrolment No - 1 :   Enrolment No - 2 :   Enrolment No - 3 :   
+Enrolment No - 4 :   Enrolment No - 5 :   Enrolment No - 6 :   
+Contents: 
+ 
+1) PROJECT STATUS SUMMARY 
+2) WORK PLANNED FOR LAST FORTNIGHT 
+3) WORK COMPLETED FOR THIS FORTNIGHT 
+4) WORK PLANNED FOR NEXT FORTNIGHT 
+5) OPEN ISSUE (IF ANY) 
+6) OPEN RISKS (IF ANY) 
+Remarks: 
+ 
+ 
+Signature of Guide:  
+ 
+Guide Name:","મધુબેન અને ભાનુભાઈ પટેલ ઈન્સ્ટીટ્યુટ ઓફ ટેકનોલોજી (MBIT) 
+સીવીએમ યુનિવર્સિટી 
+ 
+શૈક્ષણિક વર્ષ: 2025-26 (II) 
+બેચલર ઓફ ટેકનોલોજી - ઇન્ફોર્મેશન ટેક્નોલોજી 
+સેમેસ્ટર: 6ઠ્ઠું 
+અભ્યાસક્રમ: 202040601 (મિની પ્રોજેક્ટ) 
+ 
+પાક્ષિક મીની પ્રોજેક્ટ સ્થિતિ અહેવાલ 
+ 
+પ્રોજેક્ટ શીર્ષક:   
+ગ્રુપ નંબર: રિપોર્ટ નંબર:   
+નોંધણી નંબર - 1 : નોંધણી નંબર - 2 : નોંધણી નંબર - 3 :   
+નોંધણી નંબર - 4 : નોંધણી નંબર - 5 : નોંધણી નંબર - 6 :   
+સામગ્રી: 
+ 
+1) પ્રોજેક્ટ સ્ટેટસ સારાંશ 
+2) છેલ્લા પખવાડિયા માટે આયોજિત કાર્ય 
+3) આ પખવાડિયા માટે કાર્ય પૂર્ણ 
+4) આગામી પખવાડિયા માટે આયોજિત કાર્ય 
+5) ઓપન ઈશ્યુ (જો કોઈ હોય તો) 
+6) ખુલ્લા જોખમો (જો કોઈ હોય તો) 
+ટિપ્પણીઓ: 
+ 
+ 
+માર્ગદર્શિકાના હસ્તાક્ષર:  
+ 
+માર્ગદર્શિકાનું નામ:"
